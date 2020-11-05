@@ -1,4 +1,4 @@
-zmiana1
+/zmiana1
 .
 ..
 ...
